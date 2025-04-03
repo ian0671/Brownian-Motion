@@ -36,12 +36,13 @@ Ensure you have the following:
 The Notebook requires the following Python libraries:
 - `numpy`
 - `matplotlib`
+- `scipy`
 - Python’s built-in `random` module
 
 You can install the necessary libraries using pip:
 
 ```bash
-pip install numpy matplotlib
+pip install numpy matplotlib scipy
 ```
 
 ### Running the Notebook
