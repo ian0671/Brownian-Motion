@@ -1,6 +1,6 @@
 # Brownian Motion Simulations in Python
 
-This repository contains a single Jupyter Notebook—`brownian motion.ipynb`—that demonstrates simulations of 1-D and 2-D Brownian motion using Python's `numpy`, `matplotlib`, and `random` libraries.
+This repository contains a single Jupyter Notebook—`brownian motion.ipynb`—that demonstrates simulations of 1-D and 2-D Brownian motion using Python's `numpy`, `matplotlib`, `scipy`, and `random` libraries.
 
 ## Overview
 
